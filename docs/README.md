@@ -12,6 +12,7 @@ https://monnaie-works.github.io/
 
 - ランサーズプロフィール: https://www.lancers.jp/profile/monnaie_works
 - noteマガジン: https://note.com/philo_monnaie/m/m2eb912a5b10f
+- Protocol Order: https://protocolorder.github.io/protocolorder-teaser/
 
 ## ファイル構成
 
@@ -48,4 +49,5 @@ https://monnaie-works.github.io/
 ## 注意
 
 本文内では出版・論考用の別名義を使用していません。
+プロフィールには、2020年からの金融記事寄稿、暗号資産関連商業書籍の執筆実績、FP2級・日商簿記2級対策講座の講師経験を反映しています。
 直取引フォームやメールアドレスはまだ掲載していません。
