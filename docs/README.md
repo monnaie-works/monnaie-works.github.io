@@ -14,6 +14,19 @@ https://monnaie-works.github.io/
 - noteマガジン: https://note.com/philo_monnaie/m/m2eb912a5b10f
 - Protocol Order: https://protocolorder.github.io/protocolorder-teaser/
 
+## 今回の主な更新内容
+
+- 2020年から金融記事を中心に執筆していることを明記
+- 暗号資産関連の商業書籍の執筆実績を追加
+- 契約上、具体的な掲載先名・担当範囲を公開できない実績がある旨を追加
+- FP2級対策講座、日商簿記2級対策講座の講師経験を明記
+- TOEIC865、英語一次情報リサーチ、フランス語・イタリア語資格を追加
+- 暗号資産、外貨、国内外株式・ETF、投資信託、収益不動産などの資産運用経験を追加
+- ブロックチェーンを信用・所有・制度・プロトコルの観点から整理できる訴求に修正
+- Protocol Orderを関連公開プロジェクトとして追加
+- 金融記事に関する免責・対応範囲を追加
+- 依頼前に共有してほしい情報、納品形式・対応ツールを追加
+
 ## ファイル構成
 
 ```txt
@@ -43,11 +56,9 @@ https://monnaie-works.github.io/
 1. GitHubの `monnaie-works.github.io` リポジトリを開く
 2. `Add file` → `Upload files` を選択
 3. このフォルダ内のファイルとフォルダをすべてアップロード
-4. Commit message に `Add initial portfolio site` と入力
+4. Commit message に `Update portfolio site` と入力
 5. `Commit changes` を実行
 
 ## 注意
 
-本文内では出版・論考用の別名義を使用していません。
-プロフィールには、2020年からの金融記事寄稿、暗号資産関連商業書籍の執筆実績、FP2級・日商簿記2級対策講座の講師経験を反映しています。
 直取引フォームやメールアドレスはまだ掲載していません。
